@@ -8,6 +8,8 @@ public class RestAPITest {
 	public void APIApp()
 	{
 		System.out.println("APIApp");
+		System.out.println("APIApp1");
+		System.out.println("APIApp2");
 		
 	}
 	
